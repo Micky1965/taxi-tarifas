@@ -1,0 +1,12 @@
+{
+  "ciudad": "Salta Capital",
+  "moneda": "ARS",
+  "diurna": {
+    "bajada_bandera": 980,
+    "precio_km": 980
+  },
+  "nocturna": {
+    "bajada_bandera": 1176,
+    "precio_km": 1180
+  }
+}
