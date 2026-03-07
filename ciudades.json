@@ -1,0 +1,8 @@
+{
+  "ciudades": [
+    {
+      "nombre": "Salta Capital",
+      "archivo": "tarifa_salta.json"
+    }
+  ]
+}
