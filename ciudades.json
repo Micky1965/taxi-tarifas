@@ -4,5 +4,9 @@
       "nombre": "Salta Capital",
       "archivo": "tarifa_salta.json"
     }
+    {
+      "nombre": "Buenos Aires",
+      "archivo": "tarifa_buenos_aires.json"
+    }
   ]
 }
