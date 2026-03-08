@@ -3,7 +3,7 @@
   "moneda": "ARS",
   "tarifas": {
     "diurna": {
-      "bajada_bandera": 9980,
+      "bajada_bandera": 980,
       "valor_ficha": 98,
       "metros_por_ficha": 100,
       "metros_incluidos_bajada": 100
