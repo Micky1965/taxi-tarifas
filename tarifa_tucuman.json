@@ -1,0 +1,18 @@
+{
+  "ciudad": "Tucumán",
+  "moneda": "ARS",
+  "tarifas": {
+    "diurna": {
+      "bajada_bandera": 980,
+      "valor_ficha": 98,
+      "metros_por_ficha": 100,
+      "metros_incluidos_bajada": 100
+    },
+    "nocturna": {
+      "bajada_bandera": 1176,
+      "valor_ficha": 118,
+      "metros_por_ficha": 100,
+      "metros_incluidos_bajada": 100
+    }
+  }
+}
