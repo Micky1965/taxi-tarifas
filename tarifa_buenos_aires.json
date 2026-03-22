@@ -3,16 +3,16 @@
   "moneda": "ARS",
   "tarifas": {
     "diurna": {
-      "bajada_bandera": 2250,
-      "valor_ficha": 150,
-      "metros_por_ficha": 160,
-      "metros_incluidos_bajada": 160
+      "bajada_bandera": 2752,
+      "valor_ficha": 116,
+      "metros_por_ficha": 100,
+      "metros_incluidos_bajada": 100
     },
     "nocturna": {
-      "bajada_bandera": 2700,
-      "valor_ficha": 180,
-      "metros_por_ficha": 160,
-      "metros_incluidos_bajada": 160
+      "bajada_bandera": 2800,
+      "valor_ficha": 130,
+      "metros_por_ficha": 100,
+      "metros_incluidos_bajada": 100
     }
   }
 }
